@@ -41,7 +41,6 @@ section {
 i {
     margin-right: .5em;
 }
-
 p {
     margin: .2em auto
 }
@@ -69,5 +68,8 @@ h1, h2, h3 {
     color: rgb(0, 0, 238);
 }
 .mail{
+    color: rgb(0, 0, 238);
+}
+.projects{
     color: rgb(0, 0, 238);
 }
