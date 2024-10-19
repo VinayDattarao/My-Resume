@@ -59,3 +59,12 @@ h1, h2, h3 {
 #mainLeft {
     border-right: 1px solid lightgray;
 }
+.git{
+    color: rgb(0, 0, 238);
+}
+.link{
+    color: rgb(0, 0, 238);
+}
+.hack{
+    color: rgb(0, 0, 238);
+}
